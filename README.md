@@ -4,5 +4,5 @@ The data that I used was 90 percent of the above dataset given.
 First, download all the files and keep them in the same folder.
 Run preprocessing.ipynb to get the cleaned data and then run the Main_LR.ipynb.
 Update the file path as required in both codes.
-
+The other Models folder contains the code for the same problem using different machine Learning Models.
 
